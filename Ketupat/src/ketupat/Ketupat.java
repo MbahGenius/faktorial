@@ -47,5 +47,5 @@ public class Ketupat {
      l-=2;
      System.out.println("0");
  }
- } 
+ }
 }
